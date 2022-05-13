@@ -1,0 +1,14 @@
+name: Spawner_Recruit_Bayes
+title: Spawner_Recruit_Bayes
+username:
+account: hamachan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1875809
+bundleId: 5903805
+url: https://hamachan.shinyapps.io/Spawner_Recruit_Bayes/
+when: 1652464732.31051
+lastSyncTime: 1652464732.31051
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ggplot_theme.r|MSE.r|myplot1.png|myplot2.png|Picture2.png
